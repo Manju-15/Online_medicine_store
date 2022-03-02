@@ -1,0 +1,61 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+.header{
+    background-color:black;
+    color:white;
+    min-height: 80px;
+}
+.inner-header{
+    width:80%;
+    margin:auto;
+}
+.logo
+{
+	font-size:25px;
+    height: 20px;
+    padding: 10px 10px;
+}
+a{
+	color:white;
+}
+.headerlink{
+    float:right;
+    font-size:18px;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+#background-image{
+	background-image:url("https://i.pinimg.com/originals/22/2d/86/222d86e0a0b6e6ce6804ba0a370cea41.jpg");
+    margin-top:0;
+	padding-top:0px;
+	height:520px;
+	background-position: center;
+	color:#fff;
+	background-repeat: no-repeat, repeat;
+	background-size: cover; 
+	
+	}
+
+.container{
+    width:50%;
+    margin:0px 40%;
+    overflow:hidden;
+	padding:20px;
+	font-size:28px;
+	color:black;
+}
+.form-control{
+	font-size:20px;
+}
+
+footer {
+	width:100%;
+	overflow:hidden;
+	background-color:black;
+    color:white;
+    min-height: 50px;
+}
